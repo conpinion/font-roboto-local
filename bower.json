@@ -1,0 +1,35 @@
+{
+  "name": "font-roboto-local",
+  "description": "An HTML import for Roboto Fonts including woff/woff2 font files to serve locally",
+  "version": "1.0.1",
+  "main": "roboto.html",
+  "license": "MIT",
+  "ignore": [
+    ".idea",
+    "bin",
+    "build",
+    "lib",
+    "node_modules",
+    "src",
+    "tmpl",
+    ".bowerrc",
+    ".gitignore",
+    "Gruntfile.js",
+    "package.json",
+    "**/*.log",
+    "**/*.sublime-*",
+    "*.iml",
+    "atlassian-ide-plugin.xml"
+  ],
+  "keywords": [
+    "font", "roboto"
+  ],
+  "authors": [
+    "Tim Völpel <tim.voelpel@conpinion.de>"
+  ],
+  "homepage": "https://github.com/conpinion/font-roboto-local",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conpinion/font-roboto-local.git"
+  }
+}

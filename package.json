@@ -1,0 +1,21 @@
+{
+  "name": "conpinion-action-bar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conpinion/font-roboto-local.git"
+  },
+  "devDependencies": {
+    "bower": "1.5.3",
+    "coffeelint": "1.15.0",
+    "grunt": "0.4.5",
+    "grunt-bump": "0.6.0",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-copy": "0.8.1",
+    "grunt-conventional-changelog": "1.2.0",
+    "grunt-html-build": "0.5.1",
+    "grunt-newer": "1.1.1",
+    "grunt-text-replace": "0.4.0"
+  }
+}
